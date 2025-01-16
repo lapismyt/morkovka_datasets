@@ -17,12 +17,12 @@
 [
     [{"from": "human", "value": "Hi there!"},
      {"from": "gpt", "value": "Hi how can I help?"},
-     {"from": "human', "value": "What is 2+2?"}],
+     {"from": "human", "value": "What is 2+2?"}],
     [{"from": "human", "value": "What's your name?"},
      {"from": "gpt", "value": "I'm Daniel!"},
      {"from": "human", "value": "Ok! Nice!"},
      {"from": "gpt", "value": "What can I do for you?"},
-     {"from': "human", "value": "Oh nothing :)"},],
+     {"from": "human", "value": "Oh nothing :)"},],
 ]
 ```
 
