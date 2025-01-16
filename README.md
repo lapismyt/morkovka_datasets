@@ -12,7 +12,7 @@
 
 
 Датасеты храняться в JSON формате в папке datasets репозитория, в формате ShareGPT.
-Вот пример из [документации Unsloth](https://docs.unsloth.ai/basics/chat-templates):
+Вот пример из [документации Unsloth](https://docs.unsloth.ai/basics/chat-templates) (конвертированный в JSON):
 ```json
 [
     [{"from": "human", "value": "Hi there!"},
