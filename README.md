@@ -22,7 +22,7 @@
      {"from": "gpt", "value": "I'm Daniel!"},
      {"from": "human", "value": "Ok! Nice!"},
      {"from": "gpt", "value": "What can I do for you?"},
-     {"from": "human", "value": "Oh nothing :)"},],
+     {"from": "human", "value": "Oh nothing :)"}],
 ]
 ```
 
